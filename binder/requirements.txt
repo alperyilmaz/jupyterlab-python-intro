@@ -2,6 +2,12 @@ numpy
 matplotlib
 scipy
 sympy
+opencv-python
+scikit-learn
+scikit-image
+networkx
+bokeh
+statsmodels
 notebook
 pytest
 bookbook
