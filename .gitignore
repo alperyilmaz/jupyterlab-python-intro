@@ -100,3 +100,11 @@ ENV/
 # mypy
 .mypy_cache/
 
+.bash_history
+.cache
+.config
+.ipython
+.jupyter
+.local
+.npm
+.yarn
