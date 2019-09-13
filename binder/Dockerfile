@@ -1,3 +1,5 @@
 FROM alperyilmaz/jupyterlab-binder
 
-COPY --chown=jovyan:jovyan . /home/jovyan/
+USER ${NB_USER}
+
+COPY . /home/jovyan/
