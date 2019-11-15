@@ -1,3 +1,8 @@
+# files generated from notebooks
+data/test2.txt
+data/test.txt
+data/powers.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
