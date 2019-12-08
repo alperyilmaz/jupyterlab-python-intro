@@ -2,4 +2,4 @@
 
 # jupyterlab-python-intro
 
-Materials for the "Introduction to Computer Science, Algoritmic Approach with Python" course. Accompanying Docker image is located at alperyilmaz/jupyterlab-binder repo. 
+Materials for the "Introduction to Computer Science, Algoritmic Approach with Python" course. Accompanying Docker image is located at alperyilmaz/jupyterlab-binder repo.  
