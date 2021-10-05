@@ -1,4 +1,0 @@
-#!/bin/bash
-
-# Install a JupyterLab extension
-jupyter labextension install @ijmbarr/jupyterlab_spellchecker
