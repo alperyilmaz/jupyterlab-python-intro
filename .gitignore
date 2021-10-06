@@ -3,6 +3,9 @@ data/test2.txt
 data/test.txt
 data/powers.txt
 
+# the stash directory
+stash/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
