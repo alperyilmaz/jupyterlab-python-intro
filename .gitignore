@@ -9,6 +9,9 @@ stash/
 # log file
 .jupyter-server-log.txt
 
+# db for collaboration
+.jupyter_ystore.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
