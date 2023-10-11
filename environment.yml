@@ -1,0 +1,23 @@
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - sympy
+  - opencv
+  - scikit-learn
+  - scikit-image
+  - networkx
+  - bokeh
+  - statsmodels
+  - notebook
+  - nbval
+  - ipython
+  - pandas
+  - vdom
+  - jupyterlab_launcher
+  - watermark
+  - nbgitpuller
+  - numba
+  - biopython
